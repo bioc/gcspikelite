@@ -7,5 +7,5 @@ Maintainer: Mark Robinson <mrobinson@wehi.edu.au>
 Depends: R (>= 2.5.0)
 Description: Spike-in data for GC/MS data and methods within flagme
 License: LGPL
-bioViews: ExperimentData
+biocViews: MassSpectrometryData
 Packaged: Mon Oct 27 23:29:04 2008; mrobinson
