@@ -9,7 +9,7 @@
 ############################################################
 
 
-.First.lib <- function(libname, pkgname) {
+.onLoad <- function(libname, pkgname) {
   s <- search() 
   
   #require(MassSpecWavelet,quietly = TRUE, warn.conflicts = TRUE)
